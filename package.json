@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "bip39": "^3.0.3",
+    "fs-extra": "^9.0.1",
     "koa": "^2.13.0",
     "moment": "^2.29.1",
     "shortid": "^2.2.16",
