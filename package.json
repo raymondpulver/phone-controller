@@ -1,0 +1,23 @@
+{
+  "name": "phone-controller",
+  "version": "0.1.0",
+  "description": "phone controller",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bin/server"
+  },
+  "dependencies": {
+    "bip39": "^3.0.3",
+    "koa": "^2.13.0",
+    "moment": "^2.29.1",
+    "shortid": "^2.2.16",
+    "socket.io": "^3.0.1"
+  },
+  "devDependencies": {
+    "nice-repl": "^0.1.2",
+    "socket.io-client": "^3.0.1",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
